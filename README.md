@@ -1,5 +1,5 @@
-# rest-server
-REST API with Express example with MongoDB and Mongoose
+# REST API with Express example with MongoDB and Mongoose
+
 This example was taken out from the course "Server-side Development with NodeJS" by The Hong Kong University of Science and Technology
 This will contain 3 models and routes for it (Dishes, Leaders and promotions). You can analize the schemas implemented on models and the available routes.
 
